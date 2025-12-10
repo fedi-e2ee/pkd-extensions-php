@@ -8,6 +8,10 @@
 
 This library implements the Aux Data Type validations for clients, middleware, and servers.
 
+> ![NOTE]
+> Additional extensions must be specified [here](https://github.com/fedi-e2ee/fedi-pkd-extensions) before implemented
+> in this repository.
+
 ## Installing
 
 ```terminal
