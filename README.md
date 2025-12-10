@@ -2,9 +2,9 @@
 
 [![CI](https://github.com/fedi-e2ee/pkd-extensions-php/actions/workflows/ci.yml/badge.svg)](https://github.com/fedi-e2ee/pkd-extensions-php/actions/workflows/ci.yml)
 [![Psalm](https://github.com/fedi-e2ee/pkd-extensions-php/actions/workflows/psalm.yml/badge.svg)](https://github.com/fedi-e2ee/pkd-extensions-php/actions/workflows/psalm.yml)
-[![Latest Stable Version](https://poser.pugx.org/fedi-e2ee/pkd-extensions-php/v/stable)](https://packagist.org/packages/fedi-e2ee/pkd-extensions-php)
-[![License](https://poser.pugx.org/fedi-e2ee/pkd-extensions-php/license)](https://packagist.org/packages/fedi-e2ee/pkd-extensions-php)
-[![Downloads](https://img.shields.io/packagist/dt/fedi-e2ee/pkd-extensions-php.svg)](https://packagist.org/packages/fedi-e2ee/pkd-extensions-php)
+[![Latest Stable Version](https://poser.pugx.org/fedi-e2ee/pkd-extensions/v/stable)](https://packagist.org/packages/fedi-e2ee/pkd-extensions)
+[![License](https://poser.pugx.org/fedi-e2ee/pkd-extensions/license)](https://packagist.org/packages/fedi-e2ee/pkd-extensions)
+[![Downloads](https://img.shields.io/packagist/dt/fedi-e2ee/pkd-extensions.svg)](https://packagist.org/packages/fedi-e2ee/pkd-extensions)
 
 This library implements the Aux Data Type validations for clients, middleware, and servers.
 
