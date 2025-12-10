@@ -1,6 +1,7 @@
 {
   "name": "fedi-e2ee/pkd-extensions",
   "description": "Extensions for the Public Key Directory software",
+  "keywords": ["public key directory", "key transparency", "fediverse", "extensions"],
   "autoload": {
     "psr-4": {
       "FediE2EE\\PKD\\Extensions\\": "src"
@@ -11,6 +12,7 @@
       "FediE2EE\\PKD\\Extensions\\Tests\\": "tests"
     }
   },
+  "license": "ISC",
   "require": {
     "php": "^8.2",
     "ext-json": "*"
