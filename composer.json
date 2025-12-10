@@ -1,0 +1,21 @@
+{
+  "name": "fedi-e2ee/pkd-extensions",
+  "description": "Extensions for the Public Key Directory software",
+  "autoload": {
+    "psr-4": {
+      "FediE2EE\\PKD\\Extensions\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "FediE2EE\\PKD\\Extensions\\Tests\\": "tests"
+    }
+  },
+  "require": {
+    "php": "^8.2",
+    "ext-json": "*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^11|^12"
+  }
+}
