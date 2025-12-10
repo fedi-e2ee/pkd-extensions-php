@@ -7,6 +7,9 @@ use FediE2EE\PKD\Extensions\AuxDataTypes\{
     SshV2
 };
 
+/**
+ * @api
+ */
 class Registry
 {
     protected array $aliases;
