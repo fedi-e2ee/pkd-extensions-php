@@ -44,7 +44,7 @@ class Registry
                 throw new ExtensionException('Extension already registered');
             }
         }
-        $this->auxDataTypes[$type] = $alias;
+        $this->auxDataTypes[$type] = $extension;
         if (!is_null($alias)) {
             $this->aliases[$alias] = $type;
         }
